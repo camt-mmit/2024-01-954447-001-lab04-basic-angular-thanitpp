@@ -1,9 +1,17 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  align-items: center;
+}
 a {
   color: blue;
   text-decoration: none;
   border: 1px solid blue;
   border-radius: 4px;
-  padding: 10px;
+  padding: 5px;
   margin: 3px;
 }
 a.st-active {
